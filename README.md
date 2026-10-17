@@ -35,6 +35,8 @@ TryHackMe Labs
 Hack The Box Challenges
 
 ## 🔧 Technical Skills
+Python
+Visual Studio Code (VS Code)
 Security
 Threat Detection
 Incident Response
