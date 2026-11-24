@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I'm Rofiat
 
-Cybersecurity Analyst passionate about threat detection, incident response, vulnerability management, and security automation.
+Cybersecurity Analyst who is passionate about threat detection, incident response, vulnerability management, and security automation.
 Currently expanding my skills in Python, Linux, Networking, and Cyber Operations.
 
 ## 🛡️ About Me
